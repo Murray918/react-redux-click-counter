@@ -10,7 +10,7 @@ class App extends Component {
         <header className="App-header">
 
         </header>
-        <Counter />
+        <Counter store={store}/>
 
 
       </div>
