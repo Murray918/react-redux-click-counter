@@ -4,6 +4,7 @@ This project is also bootstrapped with create-react-app
 
 For Redux: npm install redux react-redux --save
 
+```
 Steps after create-react-app and installing redux and react-redux
 
 (1) Create a new pure functional component called Counter.js
@@ -85,3 +86,5 @@ case 'INCREMENT':
  value of state.count + 1.
 
  return Object.assign({}, state, {count: state.count + 1})
+
+```
