@@ -1,5 +1,7 @@
 This is a simple react/redux click counting App
 
+It is a basic shell for react and redux 
+
 This project is also bootstrapped with create-react-app
 
 For Redux: npm install redux react-redux --save
